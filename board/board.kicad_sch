@@ -723,7 +723,7 @@
       (reference "LOGO1") (unit 1) (value "Logo_Open_Hardware_Small") (footprint "Symbol:OSHW-Symbol_6.7x6mm_SilkScreen")
     )
     (path "/767ce4c6-0e55-4543-92f0-34cb8237a544/4d8c751f-8e95-4abd-9e3c-7df7d70624ce"
-      (reference "Q1") (unit 1) (value "PSMN5R2-60YL") (footprint "Package_TO_SOT_SMD:LFPAK33")
+      (reference "Q1") (unit 1) (value "PSMN5R2-60YL") (footprint "Package_TO_SOT_SMD:LFPAK56")
     )
     (path "/767ce4c6-0e55-4543-92f0-34cb8237a544/ff6839b7-0382-4d0e-b167-f2f7543832ec"
       (reference "R1") (unit 1) (value "49.9R") (footprint "Resistor_SMD:R_0603_1608Metric")

@@ -729,7 +729,7 @@
     (uuid 4d8c751f-8e95-4abd-9e3c-7df7d70624ce)
     (property "Reference" "Q1" (id 0) (at 200.66 66.2432 90))
     (property "Value" "PSMN5R2-60YL" (id 1) (at 200.66 68.5546 90))
-    (property "Footprint" "Package_TO_SOT_SMD:LFPAK33" (id 2) (at 200.66 71.12 0)
+    (property "Footprint" "Package_TO_SOT_SMD:LFPAK56" (id 2) (at 200.66 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PSMN5R2-60YL.pdf" (id 3) (at 200.66 74.93 0)
