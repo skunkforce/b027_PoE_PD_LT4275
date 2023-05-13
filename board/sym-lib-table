@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "put_on_edge")(type "KiCad")(uri "${KIPRJMOD}/../put_on_edge/put_on_edge.kicad_sym")(options "")(descr ""))
+  (lib (name "b027")(type "KiCad")(uri "C:/git/osf/b125_12bit_DAC_DAC121S101/board/b027.kicad_sym")(options "")(descr ""))
 )

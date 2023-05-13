@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.39999999999999997
+          "min_clearance": 0.19999999999999998
         }
       },
       "diff_pair_dimensions": [],
@@ -94,6 +94,8 @@
         "zone_has_empty_net": "error",
         "zones_intersect": "error"
       },
+      "rule_severitieslegacy_courtyards_overlap": true,
+      "rule_severitieslegacy_no_courtyard_defined": false,
       "rules": {
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
@@ -387,9 +389,9 @@
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
-      "label_size_ratio": 0.375,
-      "pin_symbol_size": 25.0,
-      "text_offset_ratio": 0.15
+      "label_size_ratio": 0.25,
+      "pin_symbol_size": 0.0,
+      "text_offset_ratio": 0.08
     },
     "legacy_lib_dir": "",
     "legacy_lib_list": [],
@@ -415,12 +417,12 @@
   },
   "sheets": [
     [
-      "57732dd3-1162-4c3f-88bd-31bf473d124d",
+      "3aeed584-07cc-4f3c-be25-c98bf6e76d9c",
       ""
     ],
     [
-      "767ce4c6-0e55-4543-92f0-34cb8237a544",
-      "implementation"
+      "00000000-0000-0000-0000-00006083c3a8",
+      "Controller"
     ]
   ],
   "text_variables": {}
